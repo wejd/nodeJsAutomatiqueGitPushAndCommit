@@ -1,4 +1,4 @@
-**.env Sample
+.env Sample
 USER =
 PASS =
 REPO =
