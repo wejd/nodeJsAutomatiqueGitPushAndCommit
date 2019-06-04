@@ -39,7 +39,6 @@ async function status(workingDir) {
   catch (e) {
     console.log('error')
   }
-
   return statusSummary;
 }
 
